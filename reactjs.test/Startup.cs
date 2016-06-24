@@ -12,7 +12,7 @@ namespace reactjs.test
   {
     public void Configuration(IAppBuilder app)
     {
-      ConfigureAuth(app);
+   
     }
   }
 }
