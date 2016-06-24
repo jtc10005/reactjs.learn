@@ -204,6 +204,8 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="gulpfile.js" />
+    <Content Include="Index.html" />
     <Content Include="node_modules\bower\lib\bin\bower.js" />
     <Content Include="node_modules\bower\lib\commands\cache\clean.js" />
     <Content Include="node_modules\bower\lib\commands\cache\list.js" />
@@ -3070,6 +3072,7 @@
     <Content Include="node_modules\bower\lib\util\userAgent.js" />
     <Content Include="node_modules\bower\lib\util\validLink.js" />
     <Content Include="node_modules\bower\lib\version.js" />
+    <Content Include="reactTest.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="bower_components\react\.bower.json" />
@@ -4465,6 +4468,7 @@
     <Content Include="node_modules\bower\LICENSE" />
     <Content Include="node_modules\bower\package.json" />
     <Content Include="node_modules\bower\README.md" />
+    <Content Include="bower.json" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
